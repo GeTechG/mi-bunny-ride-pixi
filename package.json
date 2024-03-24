@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --host 0.0.0.0 --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js"
+    "build": "webpack --config webpack.prod.js",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
@@ -30,6 +31,7 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "gsap": "^3.12.5",
     "pixi.js": "^8.0.2"
   }
