@@ -1,0 +1,190 @@
+{
+  "bundles": [
+    {
+      "name": "preloader",
+      "assets": [
+        {
+          "alias": "bgPreloader",
+          "src": "Environment/bg_preloader.png"
+        },
+        {
+            "alias": "bunny",
+            "src": "Characters/mi_bunny_idle_03.png"
+        }
+      ]
+    },
+    {
+        "name": "game",
+        "assets": [
+          {
+            "alias": "zubiloBlack",
+            "src": "Fonts/ZubiloBlack.woff"
+          },
+          {
+            "alias": "infoPlateBig",
+            "src": "UI/info_plate_big.png"
+          },
+          {
+            "alias": "leaderboardButtonActive",
+            "src": "UI/leadboard_button_active.png"
+          },
+          {
+            "alias": "leaderboardButtonHover",
+            "src": "UI/leadboard_button_hover.png"
+          },
+          {
+            "alias": "leaderboardButtonPress",
+            "src": "UI/leadboard_button_press.png"
+          },
+          {
+            "alias": "loginButtonActive",
+            "src": "UI/login_button_active.png"
+          },
+          {
+            "alias": "loginButtonHover",
+            "src": "UI/login_button_hover.png"
+          },
+          {
+            "alias": "loginButtonPress",
+            "src": "UI/login_button_press.png"
+          },
+          {
+            "alias": "playButtonActive",
+            "src": "UI/play_button_active.png"
+          },
+          {
+            "alias": "playButtonHover",
+            "src": "UI/play_button_hover.png"
+          },
+          {
+            "alias": "playButtonPress",
+            "src": "UI/play_button_press.png"
+          },
+          {
+            "alias": "headerInfoPlate",
+            "src": "UI/header_info_plate.png"
+          },
+          {
+            "alias": "userNameBar",
+            "src": "UI/user_name_bar.png"
+          },
+          {
+            "alias": "coinScorePlate",
+            "src": "UI/coin_score_plate.png"
+          },
+          {
+            "alias": "collectCoinIcon",
+            "src": "UI/collect_coin_icon.png"
+          },
+          {
+            "alias": "btnFullscreenActive",
+            "src": "UI/btn_fullscreen_active.png"
+          },
+          {
+            "alias": "btnFullscreenHover",
+            "src": "UI/btn_fullscreen_hover.png"
+          },
+          {
+            "alias": "btnFullscreenPress",
+            "src": "UI/btn_fullscreen_press.png"
+          },
+          {
+            "alias": "btnPauseActive",
+            "src": "UI/btn_pause_active.png"
+          },
+          {
+            "alias": "btnPauseHover",
+            "src": "UI/btn_pause_hover.png"
+          },
+          {
+            "alias": "btnPausePress",
+            "src": "UI/btn_pause_press.png"
+          },
+          {
+            "alias": "btnSoundOffActive",
+            "src": "UI/btn_sound_0_active.png"
+          },
+          {
+            "alias": "btnSoundOffHover",
+            "src": "UI/btn_sound_0_hover.png"
+          },
+          {
+            "alias": "btnSoundOffPress",
+            "src": "UI/btn_sound_0_press.png"
+          },
+          {
+            "alias": "btnSoundOnActive",
+            "src": "UI/btn_sound_1_active.png"
+          },
+          {
+            "alias": "btnSoundOnHover",
+            "src": "UI/btn_sound_1_hover.png"
+          },
+          {
+            "alias": "btnSoundOnPress",
+            "src": "UI/btn_sound_1_press.png"
+          },
+          {
+            "alias": "arrowBtnActive",
+            "src": "UI/arrow_btn_active.png"
+          },
+          {
+            "alias": "arrowBtnHover",
+            "src": "UI/arrow_btn_hover.png"
+          },
+          {
+            "alias": "arrowBtnPress",
+            "src": "UI/arrow_btn_press.png"
+          },
+          {
+            "alias": "place_1",
+            "src": "UI/place_1.png"
+          },
+          {
+            "alias": "place_2",
+            "src": "UI/place_2.png"
+          },
+          {
+            "alias": "place_3",
+            "src": "UI/place_3.png"
+          },
+          {
+            "alias": "midleaderNamePlate",
+            "src": "UI/midleader_name_plate.png"
+          },
+          {
+            "alias": "midleaderScoresPlate",
+            "src": "UI/midleader_scores_plate.png"
+          },
+          {
+            "alias": "highleaderScoresPlate",
+            "src": "UI/highleader_scores_plate.png"
+          },
+          {
+            "alias": "okButtonActive",
+            "src": "UI/ok_button_active.png"
+          },
+          {
+            "alias": "okButtonHover",
+            "src": "UI/ok_button_hover.png"
+          },
+          {
+            "alias": "okButtonPress",
+            "src": "UI/ok_button_press.png"
+          },
+          {
+            "alias": "collectDistanceIcon",
+            "src": "UI/collect_distance_icon.png"
+          },
+          {
+            "alias": "rays",
+            "src": "UI/rays.png"
+          },
+          {
+            "alias": "star",
+            "src": "UI/star.png"
+          }
+        ]
+    }
+  ]
+}

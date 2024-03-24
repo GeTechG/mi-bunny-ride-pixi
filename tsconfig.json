@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    // Settings for the compiler
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "target": "es2015",
+    "module": "ESNext",
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "paths": {
+      "@app/preloader/views/*": [
+        "./src/game/states/scenes/preloader/*"
+      ],
+      "@app/preloader/store/*": [
+        "./src/store/reducers/preloader/*"
+      ],
+      "@app/game/views/*": [
+        "./src/game/states/scenes/game/*"
+      ],
+      "@app/game/store/*": [
+        "./src/store/reducers/game/*"
+      ],
+      "@app/game/engine/*": [
+        "./src/game/engine/*"
+      ],
+      "@app/helpers/*": [
+        "./src/game/engine/helpers/*"
+      ]
+    }
+  },
+  "include": [
+    "./src/**/*",
+    "./types/**/*",
+  ]
+}
